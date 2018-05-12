@@ -1,0 +1,27 @@
+_repo: Tehtaan-tyt-t_16068
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Maria
+    alias: Furuhjelm, Maria Lovisa
+    birthdate: 1846
+    deathdate: 1916
+    gutenberg_agent_id: '6466'
+    url: http://www.gutenberg.org/2009/agents/6466
+description: ''
+gutenberg_issued: '2005-06-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16068'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PH'
+title: Tehtaan tytöt
+url: http://www.gutenberg.org/ebooks/16068
