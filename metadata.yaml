@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '6466'
     url: http://www.gutenberg.org/2009/agents/6466
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16068#Tehtaan-tyt-t
 gutenberg_issued: '2005-06-14'
 gutenberg_type: Text
 identifiers:
